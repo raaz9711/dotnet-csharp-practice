@@ -1,1 +1,5 @@
-# dotnet-cqrs-event-sourcing-insurance-demo
+
+2
+Number guesser (1-10)
+Fibonacci sequence generator (first 20 numbers)
+
