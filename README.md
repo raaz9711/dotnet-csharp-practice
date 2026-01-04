@@ -1,1 +1,4 @@
-# dotnet-cqrs-event-sourcing-insurance-demo
+
+String reverser
+Palindrome checker (ignoring spaces/punctuation)
+
